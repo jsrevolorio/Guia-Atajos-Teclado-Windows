@@ -56,5 +56,5 @@ Un atajo de teclado es una tecla o secuencia de teclas que efectúa una acción 
 |**`Ctrl + Shift + H`**        |Abre el buscador y remplaza la busque en los archivos|
 |**`Ctrl + ;`**                |Posiciona el curso en el buscador del explorador de soluciones|
 |**`Ctrl + `** **`**           |Abre una terminal dentro de visual studio powershell|
-|**`Ctrl + Q** **`**           |Posiciona el cursor en el buscador de herramientas y paneles  (General)|
+|**`Ctrl + Q`**                |Posiciona el cursor en el buscador de herramientas y paneles  (General)|
 <br/>
